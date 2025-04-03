@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: "bold",
     marginBottom: 8,
-    color: "blue",
+    color: "red",
   },
   imagen: {
     width: 300,
